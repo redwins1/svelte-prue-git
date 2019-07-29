@@ -2,7 +2,7 @@
 	let count = 0;
 
 	function handleClick() {
-	  count += 5;
+	  count += 3;
 	}
 </script>
 
